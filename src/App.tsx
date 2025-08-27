@@ -36,26 +36,26 @@ export default function App() {
         </Routes>
       </main>
 
-      {/* Contact Footer - Available across all pages */}
+      {}
       <footer>
         <div>
           <h2>Contact Me</h2>
 
-          {/* Contact Info */}
+          {}
           <div className="contact-info">
-            {/* Phone */}
+            {}
             <div className="contact-item">
               <span className="contact-icon" style={{color: '#ef4444'}}>📞</span>
               <span>+94 70 142 49 78</span>
             </div>
 
-            {/* Location */}
+            {}
             <div className="contact-item">
               <span className="contact-icon" style={{color: '#f97316'}}>🏠</span>
               <span>Mathara, Sri Lanka</span>
             </div>
 
-            {/* Email */}
+            {}
             <div className="contact-item">
               <span className="contact-icon" style={{color: '#60a5fa'}}>✉️</span>
               <a 
@@ -67,7 +67,7 @@ export default function App() {
             </div>
           </div>
 
-          {/* Social Icons */}
+          {}
           <div className="social-icons">
             <a
               href="https://github.com/nipuni-Gurusinghe"
@@ -103,7 +103,7 @@ export default function App() {
             </a>
           </div>
 
-          {/* Copyright */}
+          {}
           <div className="copyright">
             <p>
               © {new Date().getFullYear()} All Rights Reserved by{' '}

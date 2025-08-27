@@ -1,5 +1,5 @@
 export default function Contact(){
-  const phone = '+94701424978' // <-- replace with your WhatsApp number in international format without +
+  const phone = '+94701424978' 
   return (
     <div>
       <h2 className="section-title">Contact Me</h2>

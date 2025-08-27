@@ -2,7 +2,7 @@ import { useEffect } from 'react'
 
 export default function Blog(){
   useEffect(()=>{
-    // Immediately redirect to Medium blogs in a new tab, but keep this page with a link too
+    
     window.open('https://medium.com/@nipunigurusinghe','_blank')
   },[])
 
