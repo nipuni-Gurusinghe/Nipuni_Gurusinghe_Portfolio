@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "title": "AWS Cloud Practitioner Essentials",
+      "issuer": "AWS Education",
+      "date": "2025-08-23",
+      "link": "https://www.credly.com/badges/c5bb05ad-4c0f-493f-a3ed-b1c71052f1fd/linked_in?t=t1hxma",
+      "image": "/assets/Cloud101.png"
+    },
+    {
+      "title": "Artificial Inteligence Foundation-Machine learning",
+      "issuer": "Linkdling learning",
+      "date": "2025-08-06",
+      "link": "https://www.linkedin.com/learning/certificates/dbf313ea974022029beebb919623c803ff2659b3474ab184692f53e304cc0231",
+      "image": "/assets/AIFoundation.png"
+    },
+    {
+      "title": "Winner of the pieces swag in Gen AI tour sri lanka 2025",
+      "issuer": "GenAI tour 2025",
+      "date": "2025-02-18",
+      "link": "https://www.linkedin.com/posts/nipuni-gurusinghe-b22a28283_apigenaitour2025-piecesswagwinners-techinnovation-activity-7315741774545580034-Lt6o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEUHhkoB-BtAVsWt18Zf1chyTkJtV4ZDoEo",
+      "image": "/assets/PiecesSwag.png"
+    },
+
+    {
+      "title": "GenAI 101 batch",
+      "issuer": "GenAI tour 2025",
+      "date": "2025-02-18",
+      "link": "https://badgr.com/public/assertions/UCP0r9ftT_uuP_ArTOQ80Q",
+      "image": "/assets/GenAI.png"
+    },
+
+     {
+      "title": "Oracle database foundation",
+      "issuer": "Oracle Academy",
+      "date": "2024-10-11",
+      "link": "https://www.linkedin.com/posts/nipuni-gurusinghe-b22a28283_oracleacademy-databasemanagement-lifelonglearning-activity-7252547079682564096-pfmR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEUHhkoB-BtAVsWt18Zf1chyTkJtV4ZDoEo",
+      "image": "/assets/OracleAcademy.png"
+    }
+  ]
+}
