@@ -9,6 +9,7 @@ export default function Blog(){
   return (
     <div>
       <h2 className="section-title">Blog</h2>
+      <p> This is some interisting blogs written by me.</p>
       <p className="small"> <a className="btn" href="https://medium.com/@nipunigurusinghe" target="_blank">open Medium</a>.</p>
     </div>
   )
