@@ -9,7 +9,7 @@ export default function Blog(){
   return (
     <div>
       <h2 className="section-title">Blog</h2>
-      <p className="small">Your Medium page should open in a new tab. If it didn't, <a className="btn" href="https://medium.com/@nipunigurusinghe" target="_blank">open Medium</a>.</p>
+      <p className="small"> <a className="btn" href="https://medium.com/@nipunigurusinghe" target="_blank">open Medium</a>.</p>
     </div>
   )
 }
