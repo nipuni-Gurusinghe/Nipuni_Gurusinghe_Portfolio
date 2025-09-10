@@ -52,7 +52,7 @@ export default function App() {
             {}
             <div className="contact-item">
               <span className="contact-icon" style={{color: '#f97316'}}>🏠</span>
-              <span>Mathara, Sri Lanka</span>
+              <span>Matara, Sri Lanka</span>
             </div>
 
             {}
