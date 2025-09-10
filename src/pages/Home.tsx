@@ -18,8 +18,8 @@ export default function Home() {
                 Hello, I'm <span style={{ color: "#60a5fa" }}>Nipuni Gurusinghe</span>
               </h1>
               <p className="hero-sub">
-                A passionate software engineering student based in Sri Lanka — I love
-                building clean, user-focused web apps, exploring cloud (AWS/Azure),
+                A passionate software engineering student based in Sri Lanka.I love
+                building clean, user-focused web apps, exploring cloud,
                 and learning data science basics. I enjoy sharing what I learn
                 through blogs and projects.
               </p>
